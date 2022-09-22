@@ -1,12 +1,5 @@
 {
-  "status": 200,
-  "isSuccess": true,
-  "message": "Suggestion Found",
-  "response": {
-    "result": [
-      {
-        "OriginalWord": "goodboy",
-        "suggests": [
+  "suggests": [
           {
             "suggestWords": "good boy"
           },
@@ -20,7 +13,5 @@
             "suggestWords": "Catawba's"
           }
         ]
-      }
-    ]
-  }
 }
+    

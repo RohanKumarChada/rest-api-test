@@ -1,16 +1,24 @@
 {
-  "suggests": [
+  "Users": [
           {
-            "suggestWords": "good boy"
+            "Id": 1,
+            "Age": 23,
+            "Name": "Ravi"
           },
           {
-            "suggestWords": "Cordoba"
+            "Id": 2,
+            "Age": 24,
+            "Name": "Akshay"
           },
           {
-            "suggestWords": "Catawba"
+            "Id": 3,
+            "Age": 25,
+            "Name": "Swaraj"
           },
           {
-            "suggestWords": "Catawba's"
+            "Id": 4,
+            "Age": 25,
+            "Name": "Ravi"
           }
         ]
 }

@@ -1,5 +1,15 @@
 {
-  "User": [
+  "User1": [
+          {
+            "Id": "ThSP_SP196.196.ThHY_T_un.Temp_unten",
+            "Temp": "25°C"
+          },
+          {
+            "Id": "ThSP_SP196.196.ThHY_T_ob.Temp_oben",
+            "Temp": "30°C"
+          }
+        ],
+  "User2": [
           {
             "Id": "ThSP_SP196.196.ThHY_T_un.Temp_unten",
             "Temp": "25°C"
@@ -9,5 +19,5 @@
             "Temp": "30°C"
           }
         ]
-}
+  }
     

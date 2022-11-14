@@ -1,24 +1,12 @@
 {
   "User": [
           {
-            "Id": 1,
-            "Age": 23,
-            "Name": "Ravi"
+            "Id": "ThSP_SP196.196.ThHY_T_un.Temp_unten",
+            "Temp": "25°C"
           },
           {
-            "Id": 2,
-            "Age": 24,
-            "Name": "Akshay"
-          },
-          {
-            "Id": 3,
-            "Age": 25,
-            "Name": "Swaraj"
-          },
-          {
-            "Id": 4,
-            "Age": 25,
-            "Name": "Ravi"
+            "Id": "ThSP_SP196.196.ThHY_T_ob.Temp_oben",
+            "Temp": "30°C"
           }
         ]
 }
